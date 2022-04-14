@@ -636,7 +636,7 @@
       font-size: 2.25rem;
     }
   }
-  /* large devices: 1023 > */
+  
   /* large devices: 992 > */
   @media (min-width: 992px) {
     :root {
@@ -644,5 +644,5 @@
       --subtitle-font-size: 1.125rem;
     }
   }
-  /* medium devices: 767 > */
+  
   
